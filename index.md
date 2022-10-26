@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Discord](./discord.html).
+[Discord](/discord.html).
 
 There should be whitespace between paragraphs.
 
