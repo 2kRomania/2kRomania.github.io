@@ -6,6 +6,20 @@ description: Link-ul oficial de la server-ul nostru de Discord!
 
 ## Discord
 
-dsc.gg/2krorp
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Home Page</title>
+    </head>
+   <body>
+   <a href-"https://discord.com/invite/CSAbvBfrzK" target-" blank">
+     
+  <img src="images/discord.png">
+       
+   </a>
+
+  
+  </body>
+</html>
 
 [back](./)
