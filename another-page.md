@@ -6,5 +6,6 @@ description: Link-ul oficial de la server-ul nostru de Discord!
 
 ## Discord
 
-<a>https://discord.com/invite/CSAbvBfrzK
+<a>https://discord.com/invite/CSAbvBfrzK</a>
+
 [Inapoi la pagina principala](./)
