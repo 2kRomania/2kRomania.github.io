@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Discord
+description: Link-ul oficial de la server-ul nostru de Discord!
 ---
 
-## Welcome to another page
+## Discord
 
-_yay_
+dsc.gg/2krorp
 
 [back](./)
