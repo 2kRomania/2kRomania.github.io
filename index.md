@@ -2,7 +2,7 @@
 layout: default
 ---
 
-picture = https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png
+[Status server](/status-server.html)
 
 [Discord](/discord.html)
 
