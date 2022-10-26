@@ -1,6 +1,5 @@
-title: 2K Romania Roleplay
-logo: /assets/img/logo.png
-description: Site-ul oficial al comunitatii 2K
-show_downloads: false
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
