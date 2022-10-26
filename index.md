@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Status server](/status-server.html)
+#[Status server](/status-server.html)
 
-[Discord](/discord.html)
+##[Discord](/discord.html)
 
 There should be whitespace between paragraphs.
 
